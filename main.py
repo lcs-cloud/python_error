@@ -4,7 +4,7 @@ __author__ = 'cloudtogo'
 from flask import Flask
 import sys
 
-
+print ("aaaaaa"
 
 #reload(sys)
 #sys.setdefaultencoding('utf8')
